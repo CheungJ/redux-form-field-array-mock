@@ -2,7 +2,7 @@
   "name": "redux-form-field-array-mock",
   "version": "1.0.0",
   "description": "Mocked version of Redux Form's FieldArray to use for testing.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "jest src"
   },
